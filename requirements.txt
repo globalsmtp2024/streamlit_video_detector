@@ -1,11 +1,8 @@
-streamlit==1.37.0
-torch==2.6.0
-torchvision==0.21.0
-opencv-python==4.8.1.78
-Pillow==10.4.0
-numpy==1.19.0
 Flask==2.3.2
 Flask-Cors==5.0.0
+torch==2.6.0
+torchvision==0.21.0
 tornado==6.4.1
 pillow==10.4.0
 gunicorn==23.0.0
+streamlit==1.37.0
