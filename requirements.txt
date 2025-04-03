@@ -1,9 +1,9 @@
 streamlit==1.37.0
 torch==2.6.0
 torchvision==0.21.0
-opencv-python==4.8.1.78
+opencv-python
 Pillow==10.4.0
-opencv-python-headless==4.6.0.66
+opencv-python-headless
 numpy==1.19.0
 Flask==2.3.2
 Flask-Cors==5.0.0
